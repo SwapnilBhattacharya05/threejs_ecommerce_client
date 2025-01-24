@@ -36,7 +36,7 @@ const Home = () => {
                         </motion.div>
 
                         <motion.div className='flex flex-col gap-5' {...headContentAnimation}>
-                            <p className='max-w-md font-normal text-gray-600 text-base'>Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong> and define your own style.</p>
+                            <p className='max-w-md font-normal text-gray-400 text-base'>Create your unique and exclusive shirt with our brand-new 3D customization tool. <strong>Unleash your imagination</strong> and define your own style.</p>
 
                             <CustomButton
                                 type="filled"
